@@ -6,7 +6,7 @@ M365 Assurance is a client-facing product that combines Microsoft 365 usage and 
 
 This is an **assessment and advisory product**. It is not a SOC, SIEM, penetration test, managed detection service, Microsoft certification or guarantee of security.
 
-Version 4.2 preserves the complete 4.0.1 dashboard format while strengthening the product underneath it. Purposeful Review details controls now open polished in-app dialogs without reloading the page or changing the selected view. The release also includes schema-version-2 evidence validation, User 360, workload deep dives, saved audit searches, evidence bookmarks, correlated assessment evidence, Conditional Access and sharing-link registers, professional implementation/validation steps, and documented risk acceptance.
+This dashboard format while strengthening the product underneath it. Purposeful Review details controls now open polished in-app dialogs without reloading the page or changing the selected view. The release also includes schema-version-2 evidence validation, User 360, workload deep dives, saved audit searches, evidence bookmarks, correlated assessment evidence, Conditional Access and sharing-link registers, professional implementation/validation steps, and documented risk acceptance.
 
 ## Product experience
 
