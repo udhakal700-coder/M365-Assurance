@@ -1,4 +1,4 @@
-# M365 Assurance 4.1
+# M365 Assurance
 
 **Microsoft 365 Assurance, Usage & Governance for SMEs**
 
